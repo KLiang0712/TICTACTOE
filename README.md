@@ -1,2 +1,3 @@
 # TICTACTOE
-A Tic Tac Toe Game Research Project for my portfolio. 
+My Tic Tac Toe Game [Live Demo](https://TICTACTOE.koryliang.repl.co)
+
